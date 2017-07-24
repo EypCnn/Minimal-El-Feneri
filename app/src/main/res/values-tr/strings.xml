@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Copyright (C) 2014 Damien Chazoule
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<resources>
+
+    <string name="app_name">El Feneri</string>
+    <string name="about">Hakkımızda</string>
+    <string name="add">Ekle</string>
+    <string name="apply">Ekrana uygula ?</string>
+    <string name="auto">Otomatik</string>
+    <string name="color">Renk</string>
+    <string name="colorful">Renkli Ekran</string>
+    <string name="copyright">Copyright &#169; 2017 OneTeam</string>
+    <string name="choose">Rengini seçin</string>
+    <string name="custom">Özelleştirme</string>
+	<string name="developer">EypCnn</string>
+    <string name="disabled">Devre Dışı</string>
+    <string name="discolored">Ekran renginin solması</string>
+    <string name="enabled">Etkinleştir</string>
+    <string name="first">Uygulama Minimal Bir El Feneri Uygulamasıdır. Açmak Ve Kapatmak İçin Ekrana Bir Kere Basınız Ayarlara Girmek İçin El Feneri Kapalıyken Basılı Tutun Ve Ayarlara Giriniz.)</string>
+    <string name="hello">Selamün Aleyküm !</string>
+    <string name="hide">Görünürlük</string>
+    <string name="message">Gerçekten simgeyi uygulama başlatıcısından gizlemek mi istiyor musunuz? Eğer öyleyse, uygulama kapanacak, ancak widget erişilebilir durumda kalacak. \n\n<b>Uyarı! Bu hareket geri döndürülemez</b></string>
+    <string name="mode">Mod</string>
+    <string name="no">Hayır</string>
+    <string name="okay">Tamam</string>
+    <string name="screen">Ekran</string>
+    <string name="settings">Ayarlar</string>
+    <string name="sos">SOS</string>
+    <string name="title">İkonu Gizle ?</string>
+    <string name="torch_title">El Fenerini Aç</string>
+    <string name="torch_toggle">El Fenerini Kapat</string>
+    <string name="url">http://forum.one-teams.com</string>
+    <string name="widget">Widget</string>
+    <string name="yes">Evet</string>
+    <string name="red">Kırmızı</string>
+    <string name="pink">Pembe</string>
+    <string name="purple">Mor</string>
+    <string name="deepPurple">Koyu Pembe</string>
+    <string name="indigo">Koyu Mavi</string>
+    <string name="blue">Mavi</string>
+    <string name="lightBlue">Açık Mavi</string>
+    <string name="cyan">Cam Göbeği</string>
+    <string name="teal">Tukuaz Mavisi</string>
+    <string name="green">Yeşil</string>
+    <string name="lightGreen">Açık Yeşil</string>
+    <string name="lime">Misket Limonu</string>
+    <string name="yellow">Sarı</string>
+    <string name="amber">Kehribar</string>
+    <string name="orange">Turuncu</string>
+    <string name="deepOrange">Koyu Turuncu</string>
+    <string name="brown">Kahverengi</string>
+    <string name="grey">Gri</string>
+    <string name="blueGrey">Mavi Gri</string>
+
+</resources>
